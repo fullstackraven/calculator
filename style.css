@@ -118,6 +118,12 @@ button:hover {
     border: none;
 }
 
+#zero { 
+    display: flex;
+    justify-content: left;
+    padding-left: 35px;
+}
+
 footer{
     font-size: 25px;
     bottom: 0;
