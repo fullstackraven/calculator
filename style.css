@@ -25,7 +25,7 @@ html, body {
     box-shadow: 10px 10px 10px rgb(40, 40, 40);
 }
 
-.result {
+.display {
     display: flex;
     flex-direction: row-reverse;
     align-items: flex-end;
@@ -34,7 +34,7 @@ html, body {
     height: 39%;
 }
 
-.result span {
+.display span {
     margin-right: 50px;
     font-size: 100px;
     justify-self: flex-end;
@@ -94,7 +94,7 @@ button:hover {
     color: rgb(144,179,91);
 }
 
-.numbers, .period {
+.numbers, .decimal {
     background-color: rgb(51, 51, 51);
     border: none;
 }
